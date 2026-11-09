@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+env/
+venv/
+.env
+
+# Node
+node_modules/
+frontend/node_modules/
+.npm
+npm-debug.log*
+
+# Vite build cache
+.vite/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+
